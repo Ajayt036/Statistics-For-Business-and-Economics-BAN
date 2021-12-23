@@ -1,13 +1,17 @@
-# Statistics Business-Problems
-The Statistics For Data Analytics is a repository for the all fundamental statistics and probability concepts applied on Industrial Problems. These problems are designed to pruduce: Descriptive and Predictive analysis.
+# Statistics For Business Solutions
+The Statistics For Business Solutions is a repository for the all insustrial problems that require fundamental statistics and probability concepts to reach a solution. These problems are and based on insutries requirment, cimpeteive edge in the market and need some descritive or predective analysis to keep their business in the market.
 
 # AIM
 
-The Aim of this reposistery is understand and increase the business accumen from analytics point of view. In today world, It is easy to pick up a a visulization chart on any visulization tool such as Tableau and Power BI. But the question is what does that chart represent, how has it been formed. How the data is manipulated in order to get the ionsights. These problems target following three parameteres
+The Aim of this reposistery is understand and increase the business accumen from analytics point of view. We often hear the business domain and analytics skills both are are required to be a good analyst. This repositery provides exactly the same. It has business problems colleced from market and their solution fron analytical point of view.
 
 1. Descriptive and predictive analysis.
 2. Business Domain
 3. Probability and Statitsics
+
+# Structure
+
+The problems are divide in subparts such as Basic data summary, Descrptive, Dagnostic and predictive problems.
 
 # Tools Used:
 Anaconda: Python Jypter Noteboook
