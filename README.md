@@ -25,6 +25,6 @@ matplotlib
 itertools
 ```
 
-# Book used
-Statistics for Business and Economics
+# Credit
+The sorcuce credit is "Statistics for Business and Economics Book"
 
