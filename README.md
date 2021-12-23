@@ -13,12 +13,13 @@ The Aim of this reposistery is understand and increase the business accumen from
 Anaconda: Python Jypter Noteboook
 
 # Library Used:
+```
 Pandas
-<br /> 
 numpy
 seaborn
 matplotlib
 itertools
+```
 
 # Book used
 Statistics for Business and Economics
