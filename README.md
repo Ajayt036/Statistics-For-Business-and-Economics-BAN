@@ -27,5 +27,7 @@ itertools
 
 ## Credit
 The sorcuce credit is "Statistics for Business and Economics Book"
-Link: https://www.amazon.com/Statistics-Business-Economics-David-Anderson/dp/1337901067/ref=sr_1_1?keywords=statistics+for+business+and+economics&qid=1640321153&sr=8-1
-
+Link: 
+```
+https://www.amazon.com/Statistics-Business-Economics-David-Anderson/dp/1337901067/ref=sr_1_1?keywords=statistics+for+business+and+economics&qid=1640321153&sr=8-1
+```
