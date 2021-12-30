@@ -1,5 +1,5 @@
 ## Statistics For Business 
-The Statistics For Business is a repository for the all insustrial problems that require fundamental statistics and probability concepts to reach a solution. These problems are and based on insutries requirment, cimpeteive edge in the market and need some descritive or predective analysis to keep their business in the market.
+The Statistics For Business is a repository of the all insustrial problems that require fundamental statistics and probability concepts to reach a solution. These problems are and based on insutries requirment, cimpeteive edge in the market and need some descritive or predective analysis to keep their business in the market.
 
 ## AIM
 
