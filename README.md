@@ -1,5 +1,18 @@
 ## Statistics For Business 
-The Statistics For Business is a repository of the all insustrial problems that require fundamental statistics and probability concepts to reach a solution. These problems are and based on industries requirment, competeive edge in the market and need some descriptive analysis to keep their business in the market.
+The Statistics For Business is a repository of the real time business data and and process of producing insights and analytics out of this data for the understanding of business and, more importantly application of statitics in business. The data is collected across all the business verticals and asked to approach its summaries, isights and solutions in the form of problems. Below is a glimpse of the statistics and probability concepts used in these problems.
+
+Descriptive Statistics
+Probability and Discrete Probability Distributions 
+Continuous Probability Distributions
+Sampling and Sampling Distributions=
+Interval Estimation
+Hypothesis Tests
+Inference About Means and Proportions with Two Populations
+Inferences About Population Variances
+Comparing Multiple Proportions
+Test of Independence and Goodness of Fit
+Experimental Design and Analysis of Variance
+Simple Linear Regression
 
 ## AIM
 
