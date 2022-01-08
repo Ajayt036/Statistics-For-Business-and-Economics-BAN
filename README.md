@@ -1,7 +1,7 @@
 ## Statistics For Business 
-The Statistics For Business is a repository of the real time business data and and process of producing insights and analytics out of this data for the understanding of business and, more importantly application of statitics in business. The data is collected across all the business verticals and asked to approach its summaries, isights and solutions in the form of problems. Below is a glimpse of the statistics and probability concepts used in these problems.
+The Statistics For Business is a repository of the real time business data and process of producing insights and analytics from given data sets to undestand the business, and application of statitics in business. The data is collected from across all the business verticals. Below is a glimpse of the statistics and probability concepts used in these problems.
 
-Descriptive Statistics
+- Descriptive Statistics
 Probability and Discrete Probability Distributions 
 Continuous Probability Distributions
 Sampling and Sampling Distributions=
