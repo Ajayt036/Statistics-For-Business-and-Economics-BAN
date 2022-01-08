@@ -16,9 +16,10 @@ The Statistics For Business is a repository of the real time business data and p
 
 ## AIM
 
-The Aim of this reposistery is to practice real time business problems to increase the business understanding and  analytical acumen. It helps to build a string froundation for the following.
+The Aim of this reposistery is to practice real time business problems to increase the business understanding and  analytical acumen. It helps to build a very strong froundation of the following
+;
 
-1. Descriptive and predictive analysis.
+1. Descriptive and predictive analysis
 2. Business Domain Knowledge
 3. Probability and Statitsics Concepts
 4. Hands on Analytical tool
