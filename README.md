@@ -4,7 +4,7 @@ The Statistics For Business is a repository of the real time business data and p
 - Descriptive Statistics
 - Probability and Discrete Probability Distributions 
 - Continuous Probability Distributions
-- Sampling and Sampling Distributions=
+- Sampling and Sampling Distributions
 - Interval Estimation
 - Hypothesis Tests
 - Inference About Means and Proportions with Two Populations
