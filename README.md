@@ -1,5 +1,5 @@
-## Statistics For Business 
-The Statistics For Business is a repository of the real time business data and process of producing insights and analytics for the business undersdtanding, and application of statistics in business. The data is collected from across all the business verticals. Below is a glimpse of the statistics and probability concepts used in these problems.
+## Statistics For Business & Economics
+The Statistics For Business & Economics is a repository of the real time business data and process of producing insights and analytics for the business undersdtanding, and application of statistics in business. The data is collected from across all the business verticals. Below is a glimpse of the statistics and probability concepts used in these problems.
 
 - Descriptive Statistics
 - Probability and Discrete Probability Distributions 
